@@ -1,1 +1,1 @@
-# DotNetAcademySKG2019
+# .Net Academy Thessaloniki
