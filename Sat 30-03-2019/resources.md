@@ -11,4 +11,7 @@
 5. [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
 
 6. [Scrum Trainning Series](http://scrumtrainingseries.com/)
+
 7. [Azure Devops Boards Tutorial](https://www.youtube.com/watch?v=SbFKi6Hflc0)
+
+8.[Publishing an existing project to GitHub](https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md)
