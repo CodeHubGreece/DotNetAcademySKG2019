@@ -9,3 +9,5 @@
 4. [Linq](https://www.tutorialsteacher.com/linq/what-is-linq)
 
 5. [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
+
+6. [Scrum Trainning Series](http://scrumtrainingseries.com/)
