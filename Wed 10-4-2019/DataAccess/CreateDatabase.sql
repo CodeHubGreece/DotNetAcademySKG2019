@@ -1,10 +1,10 @@
 USE [master]
 GO
 
-CREATE DATABASE [Vidly]
+CREATE DATABASE [VidlyADO]
 GO
 
-USE [Vidly]
+USE [VidlyADO]
 GO
 
 /****** Object:  Table [dbo].[Customers]    Script Date: 7/4/2019 5:02:18 μμ ******/

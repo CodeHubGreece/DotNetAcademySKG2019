@@ -11,7 +11,7 @@ namespace DataAccess.ADO
 	public class DataAccessHelper
 	{
 		// We need to replace this value with the appropriate value that points to the local database
-		const string connectionString = @"Data Source=(LocalDb)\MSSQLLocalDB16;Initial Catalog=Vidly;Integrated Security=True";
+		const string connectionString = @"Data Source=(LocalDb)\MSSQLLocalDB16;Initial Catalog=VidlyADO;Integrated Security=True";
 
 		/// <summary>
 		/// Helper method that stores a genre record to the database
