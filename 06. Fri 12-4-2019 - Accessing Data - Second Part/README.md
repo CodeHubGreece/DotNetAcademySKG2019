@@ -34,3 +34,20 @@
    - Data Context Class -> `VidlyContext`
    - Verify that Controller name at the bottom is `GenresController`
    - Let the rest to the default values
+
+## Steps when adding a new entity
+
+When there is a need to add a new entity to our system we need to follow certain steps.
+- Add a class representing the entity in Models folder
+- Add a DbSet property in the class that inherits from `DbContext` e.g. `VidlyContext`
+- Create a new controller as described in the steps above for `Genres`
+- Add a database migration so Entity Framework can create the commands to update the database. One migration could contain the changes required for multiple entities at the same time.
+- Update the database by running the command `Update-Database`
+
+## Install Entity Framework in a new project
+
+When creating a new project in Visual Studio Entity Framework is not included by default, so we have to install it. To do this we need to execute the command
+```
+Install-Package EntityFramework -Version 6.2.0
+```
+from the Package Manager Console as above.

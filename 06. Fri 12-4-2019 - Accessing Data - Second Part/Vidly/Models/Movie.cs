@@ -18,6 +18,7 @@ namespace Vidly.Models
 		public int GenreId { get; set; }
 
 		[DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
+		[DataType(DataType.Date)]
 		public DateTime DateAdded { get; set; }
 
 		[Display(Name = "Release Date")]
