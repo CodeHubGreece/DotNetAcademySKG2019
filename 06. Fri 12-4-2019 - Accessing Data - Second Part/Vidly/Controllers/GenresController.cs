@@ -11,7 +11,7 @@ using Vidly.Models;
 namespace Vidly.Controllers
 {
     /// <summary>
-    /// test
+    /// test eewee
     /// </summary>
     public class GenresController : Controller
     {
