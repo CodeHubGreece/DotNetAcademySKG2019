@@ -10,6 +10,9 @@ using Vidly.Models;
 
 namespace Vidly.Controllers
 {
+    /// <summary>
+    /// test
+    /// </summary>
     public class GenresController : Controller
     {
         private VidlyContext db = new VidlyContext();
